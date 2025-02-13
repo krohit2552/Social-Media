@@ -33,8 +33,8 @@ A beautiful and responsive social media feed application built with React, featu
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/social-feed.git
-cd social-feed
+git clone https://github.com/krohit2552/Social-Media
+cd Social-Media
 ```
 
 2. Install dependencies
@@ -48,6 +48,8 @@ npm run dev
 ```
 
 4. Open your browser and visit `http://localhost:5173`
+
+5. live: https://deluxe-sfogliatella-16812b.netlify.app/
 
 ## Project Structure
 
