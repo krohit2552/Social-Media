@@ -2,7 +2,7 @@
 
 A beautiful and responsive social media feed application built with React, featuring a modern UI design and smooth interactions.
 
-![Social Feed Demo](https://picsum.photos/800/400?random=readme)
+![Social Feed Demo](![alt text](image.png))
 
 ## Features
 
