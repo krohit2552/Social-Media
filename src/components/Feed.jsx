@@ -7,7 +7,7 @@ const POSTS_PER_PAGE = 5;
 const MOCK_DATA = [
   {
     id: 1,
-    username: "john_doe",
+    username: "root",
     profile_picture: "https://randomuser.me/api/portraits/men/1.jpg",
     post_image: "https://picsum.photos/600/400?random=1",
     caption: "Exploring the mountains!",
@@ -91,6 +91,15 @@ const MOCK_DATA = [
     username: "artsy_amy",
     profile_picture: "https://randomuser.me/api/portraits/women/10.jpg",
     post_image: "https://picsum.photos/600/400?random=10",
+    caption: "Watercolor painting 🎨🖌",
+    likes: 180,
+    comments: 22
+  },
+  {
+    id: 11,
+    username: "rohit1237801",
+    profile_picture: "28KB.jpg",
+    post_image: "https://picsum.photos/600/400?random=11",
     caption: "Watercolor painting 🎨🖌",
     likes: 180,
     comments: 22
